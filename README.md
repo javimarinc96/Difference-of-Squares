@@ -1,3 +1,4 @@
+![difference-of-squares](https://user-images.githubusercontent.com/44240533/222983359-55143a12-6a01-4523-97eb-a3d7cd754f4c.svg)
 # Difference of Squares
 
 Welcome to Difference of Squares on Exercism's Java Track.
